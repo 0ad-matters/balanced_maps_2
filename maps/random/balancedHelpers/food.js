@@ -35,7 +35,7 @@ const balancedFoodConfig = {
     placer: placeFoodDesert,
     initialFood: () => randIntInclusive(4, 30),
   },
-  'generic/snowy': {
+  'generic/arctic': {
     placer: placeFoodSnowy,
     initialFood: () => randIntInclusive(3, 30),
     evenInitialFood: true,

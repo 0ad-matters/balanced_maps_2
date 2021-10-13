@@ -5,6 +5,7 @@
 		"Description" : "Players start side by side, protected by mountains. Extra minerals on border.",
 		"Preview" : "wrench.png",
 		"SupportedBiomes": "generic/",
+		"Keywords": ["badmod"],
 		"CircularMap" : true
 	}
 }
