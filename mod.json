@@ -2,7 +2,7 @@
 	"name": "balanced-maps-2",
 	"version": "0.25.0999",
 	"label": "Balanced maps 2",
-	"description": "A collection of balanced maps.",
+	"description": "A collection of balanced maps that are especially designed for competitive play",
 	"dependencies": ["0ad=0.0.25"],
 	"url": "https://github.com/0ad-matters/badmod",
 	"type": "maps"

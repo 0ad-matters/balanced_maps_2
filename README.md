@@ -1,5 +1,8 @@
 ### Balanced Maps 2
 
+A collection of balanced maps for [0ad](https://wildfiregames.com/)
+that are especially designed for competitive play
+
 Fork of [Balanced Maps](https://github.com/badosu/badmod)
 
 Please report any issues by opening a ticket on
